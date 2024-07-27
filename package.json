@@ -1,7 +1,7 @@
 {
-  "name": "13-time-for-the-test",
+  "name": "Food delivery application",
   "version": "1.0.0",
-  "description": "These is Namaste React Episode 13 - Time for the Test",
+  "description": "food delivery",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
@@ -10,17 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SohamShinde160/Namaste-React-2.0.git"
+    "url": "git+https://github.com/ratneshpatelr/"
   },
-  "keywords": [
-    "namaste-react"
-  ],
-  "author": "Soham S Shinde",
+  "author": "Ratnesh kurmi",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/SohamShinde160/Namaste-React-2.0/issues"
-  },
-  "homepage": "https://github.com/SohamShinde160/Namaste-React-2.0#readme",
   "devDependencies": {
     "@babel/core": "^7.24.7",
     "@babel/preset-env": "^7.24.7",
@@ -37,6 +30,7 @@
   },
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.5",
+    "cors": "^2.8.5",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-redux": "^9.1.2",
