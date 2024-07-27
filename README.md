@@ -1,6 +1,5 @@
-# 🙏 Namaste-React:- Food-Ordering-App🔥
-A Frontend food delivery application made using React and Swiggy's Live API.🚀
-This project is made during the Namaste React Course Akshay Saini👩‍💻
+
+A Frontend food delivery application made using React and Swiggy's Live API.
 
 ## Tech Stack :-
 - Frontend Library: React JS
@@ -10,9 +9,9 @@ This project is made during the Namaste React Course Akshay Saini👩‍💻
 - State Management: Redux-toolkit
 
 ## Features:- 
-- Shimmer UI
-- Add to cart
-- Get restaurants by current location from Swiggy API & getting the live data.
+- Good UI
+- Add to cart functionality
+- Get restaurants by your preferences.
 - Display them with Area name, Cuisines Category and Ratings.
 - Search Restaurants by Name.
 - For any restaurant, you can checkout all the different type of dishes available with details and prices per quantity.
@@ -21,7 +20,7 @@ This project is made during the Namaste React Course Akshay Saini👩‍💻
 ## How to run on your local
 ### 1. Clone the repo 
 ```
-git clone https://github.com/SohamShinde160/Food-Ordering-App.git
+git clone url
 ```
 ### 2. Install dependencies
 ``` 
@@ -46,3 +45,4 @@ npm start
 #### Cart Page:-
 ![3](https://github.com/user-attachments/assets/9f3d0ea8-60b9-462d-b8a1-4d2e707f09de)
 
+# Food
